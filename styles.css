@@ -1,0 +1,57 @@
+body{
+    background-image: url(./bernard-hermant-X-Bu9X6gok0-unsplash.jpg);
+    background-size: cover;
+    user-select: none;
+}
+h1{
+    font-size: 4cm;
+    background-color: steelblue;
+    width: 100%;
+    border-radius: 30px;
+}
+div.p{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+div.m{
+    display: grid;
+    width: 80%;
+}
+span.a a{
+    color: white;
+    font-size: 40px;
+    text-decoration: none;
+    word-spacing: 4px;
+    background-color: cornflowerblue;
+    border-radius: 20px;
+}
+span.a a:hover {
+    color: green;
+    background-color: lightblue;
+    
+}
+p{
+    font-size: 50px;
+    background-color: beige;
+    border: 3px yellow solid;
+    border-radius: 20px;
+    font-family: sans-serif;
+}
+ul{
+    list-style: decimal;
+    font-size: x-large;
+    color: darkcyan;
+}
+li{
+    text-align: start;
+}
+li a{
+    color:darkgoldenrod ;
+    font-size: xx-large;
+    text-decoration: none;
+}
+li a:hover {
+    color: gold;
+    box-shadow: 3px 3px black;
+}
